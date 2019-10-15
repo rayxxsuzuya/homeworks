@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    color: #333333;
+    font-family: Tahoma;
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 70px;   
+    margin-bottom: 81px;
+}
+
+.box {
+    width: 122px;
+}
+
+.box img {
+    padding-left: 25px;
+}
+
+.box-2 img {
+    padding-left: 23px;
+}
+
+.box-3 img {
+    padding-left: 22px;
+}
+
+.box-4 img {
+    padding-left: 20px; 
+}
+
+.box-5 img {
+    padding-left: 20px;
+}
+
+.box-6 img {
+    padding-left: 30px;
+}
+
+.box p {
+    color: #333333;
+    font-family: Tahoma;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+}
+
+
